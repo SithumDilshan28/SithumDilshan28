@@ -1,5 +1,5 @@
 ## Hi there, I'm [Sithum Dilshan][website].
-### I'm a Undergraduate Student & Freelance Web Developer!
+### I'm a Undergraduate Student & Freelance Web Developer! 
 - 🌱 Programmers never quit; they just debug the issues
 - 🥅 2023 Goals: Seeking an IT Internship to Unlock my Potential
 - ⚡ Fun fact: I love to code and listening music
