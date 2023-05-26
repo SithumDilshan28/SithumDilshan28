@@ -1,6 +1,6 @@
 ## Hi there, I'm [Sithum Dilshan][website].
 ### I'm a Undergraduate Student & Freelance Web Developer!
-- 🌱 I’m currently learning everything 
+- 🌱 Programmers never quit; they just debug the issues
 - 🥅 2023 Goals: Seeking an IT Internship to Unlock my Potential
 - ⚡ Fun fact: I love to code and listening music
 
@@ -24,8 +24,6 @@
 [<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][github]
 
 [<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>][github]
-
-[<img align="left" alt="Express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>][github]
 
 [<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>][github]
 
