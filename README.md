@@ -65,13 +65,13 @@
 </p>
 
 
-### 🎓 Achievements
+### 🗃 Contributions
 <p align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=SithumDilshan28&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SithumDilshan28&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Sithum's Languages/Frameworks" width = 400 />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SithumDilshan28&count_private=true&theme=dark&hide_border=true" alt = "Sithum's Contribution" width = 400 height = 350 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=SithumDilshan28&theme=dark&hide_border=true" alt = "Sithum's Rating" width = 400 height = 350 >
 </p>
 
 
